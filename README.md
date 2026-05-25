@@ -17,11 +17,12 @@ It uses Netflix content data to suggest movies or shows based on user preference
 
 ## 📂 Project Structure
 RECOMMENDATIONSYSTEM/
-│
-├── app.py                 # Main Streamlit app
-├── netflix_content.csv    # Dataset with Netflix titles
-├── netflix_logo.png       # Custom favicon/logo
-├── recommendations.ipynb  # Notebook for experiments
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── venv/                  # Virtual environment (ignored in Git)
+
+- **app.py** — Main Streamlit app  
+- **netflix_content.csv** — Dataset with Netflix titles  
+- **netflix_logo.png** — Custom favicon/logo  
+- **recommendations.ipynb** — Notebook for experiments  
+- **requirements.txt** — Python dependencies  
+- **README.md** — Project documentation  
+- **venv/** — Virtual environment (ignored in Git)
+
